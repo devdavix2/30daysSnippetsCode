@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Css Animated Button </title>
+    <style>
+        body {
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f7f7f7;
+        }
+
+        .btn {
+            padding: 15px 30px;
+            font-size: 16px;
+            font-weight: bold;
+            text-transform: uppercase;
+            border: 1px solid transparent;
+            border-radius: 30px;
+            background-image: linear-gradient(to right, #ff7e5f, #feb47b);
+            color: white;
+            outline: none;
+            cursor: pointer;
+            transition: all 0.3s ease;
+
+        }
+
+        .btn:hover {
+            background-image: linear-gradient(to right, #d04e3b, #d97a4d);
+            color: white;
+            border-color: #d04e3b;
+        }
+
+        .btn:focus {
+
+            box-shadow: 0 0 10px rgba (255, 120, 95, 0.8);
+        }
+    </style>
+</head>
+
+<body>
+
+    <button class="btn"> </button>
+
+</body>
+
+</html>
