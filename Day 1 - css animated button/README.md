@@ -62,6 +62,6 @@ Feel free to use, modify, and share it.
 ---
 
 ### 👨‍💻 **Author**
-Developed by [DevDavix](https://github.com/devdavix).  
-Explore more projects on [GitHub](https://github.com/devdavix).
+Developed by [DevDavix](https://github.com/devdavix2).  
+Explore more projects on [Portfolio](https://devdavixx.vercel.app/).
 ```
